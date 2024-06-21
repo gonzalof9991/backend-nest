@@ -38,8 +38,8 @@ jobs:
         run: pnpm install
 
       - name: Run lint
-        run: pnpm lint
+        run: pnpm  lint
 
       - name: Run tests
-        run: pnpm test
+        run: pnpm  test
 
